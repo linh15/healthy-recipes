@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: auto;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
